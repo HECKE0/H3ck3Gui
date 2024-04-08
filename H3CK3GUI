@@ -422,7 +422,7 @@ s = Instance.new("Sound")
 
 s.Name = "Music"
 
-s.SoundId = "http://www.roblox.com/asset/?id=6897686359" --Put the id into there.
+s.SoundId = "http://www.roblox.com/asset/?id=6845637094" --Put the id into there.
 
 s.Looped = true
 
@@ -447,7 +447,7 @@ s:play()
 
 for i,v in pairs(game.Players:GetChildren()) do
 isis = Instance.new("Message",workspace)
-isis.Text = "H3ck3_03 HAS JOIN IT INTO THE SERVER "
+isis.Text = "H3CK3_03 HAS JOIN IT INTO THE SERVER "
 wait(1)
 isis:Destroy()
 bomb = Instance.new("Explosion")
@@ -460,7 +460,7 @@ end
 
 for i,v in pairs(game.Players:GetChildren()) do
 isis = Instance.new("Message",workspace)
-isis.Text = "H3ck3_03 HAS JOIN IT INTO THE SERVER "
+isis.Text = "H3CK3_03 HAS JOIN IT INTO THE SERVER "
 wait(1)
 isis:Destroy()
 bomb = Instance.new("Explosion")
@@ -507,11 +507,11 @@ local msg = Instance.new("Hint")
 msg.Parent = Workspace
 
 while true do
-msg.Text = "This Game Get Fucked By H3ck3_03!!!"
+msg.Text = "This Game Get Fucked By Hecke!!!"
 wait(1.5)
-msg.Text = "Get HACKED SUCKERSSS!!!!"
+msg.Text = "Get HACKED BY H3CK3_03!!!!"
 wait(1.5)
-msg.Text = "Hecke WAS HERE!!!!!"
+msg.Text = "H3CK3_03 WAS HERE!!!!!"
 wait(1.5)
 end
 end)
@@ -522,7 +522,7 @@ TextLabel.Position = UDim2.new(0.35, 0, 0.85, 0)
 TextLabel.BackgroundColor3 = Color3.new(0, 0, 0)
 TextLabel.BorderColor3 = Color3.new(0, 0, 0)
 TextLabel.BorderSizePixel = 0
-TextLabel.Text = "Cerdits To : H3ck3_03"
+TextLabel.Text = "Cerdits To : H3CK3_03,HECKE (LOKAD20) AND H3CK3_303"
 TextLabel.TextSize = 15
 TextLabel.BackgroundTransparency = 1
 TextLabel.TextColor3 = Color3.new(0, 255, 0)
@@ -535,7 +535,7 @@ TextLabel.Position = UDim2.new(0.35, 0, 0.05, 0)
 TextLabel.BackgroundColor3 = Color3.new(0, 0, 0)
 TextLabel.BorderColor3 = Color3.new(0, 0, 0)
 TextLabel.BorderSizePixel = 0
-TextLabel.Text = "Made By Hecke"
+TextLabel.Text = "Made By H3CK3_03"
 TextLabel.TextSize = 28
 TextLabel.BackgroundTransparency = 1
 TextLabel.TextColor3 = Color3.new(0, 255, 0)
