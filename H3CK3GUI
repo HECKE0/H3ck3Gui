@@ -28,7 +28,7 @@ ImageLabel.BackgroundTransparency = 0
 ImageLabel.BorderSizePixel = 0
 ImageLabel.Position = UDim2.new(0.0001, 0, 0.0001, 0)
 ImageLabel.Size = UDim2.new(0.885, 35, 0.83, 54)
-ImageLabel.Image = "rbxassetid://16771568567"
+ImageLabel.Image = "rbxassetid://17064196492"
 ImageLabel.Active = false
 
 local TextLabel = Instance.new("TextLabel")
@@ -249,7 +249,7 @@ TextButton.BackgroundColor3 = Color3.new(0, 0, 0)
 TextButton.BorderColor3 = Color3.fromRGB(0, 225, 0) -- Green
 TextButton.BorderSizePixel = 2
 TextButton.BackgroundTransparency = 0.66
-TextButton.Text = "H3ck3_03"
+TextButton.Text = "666"
 TextButton.TextSize = 23
 TextButton.TextWrapped = true
 TextButton.TextColor3 = Color3.new(0, 225, 0)
