@@ -219,7 +219,7 @@ for Get,Workspace in ipairs(game.Workspace:GetChildren()) do
 
 ParticleEmitter = Instance.new("ParticleEmitter");
 
-ParticleEmitter.Texture = ("rbxassetid://17064196492");
+ParticleEmitter.Texture = ("rbxassetid://");
 
 ParticleEmitter.Parent = Workspace;
 
@@ -265,7 +265,7 @@ bbg.Adornee=me;
 bbg.Size=UDim2.new(2.5,0,2.5,0)
 --bbg.StudsOffset=Vector3.new(0,2,0)
 tlb=Instance.new'TextLabel';
-tlb.Text='H3ck3_03  H3ck3_03  H3ck3_03';
+tlb.Text='666 666 666 666 666 666';
 tlb.Font='SourceSansBold';
 tlb.FontSize='Size48';
 tlb.TextColor3=Color3.new(1,0,0);
