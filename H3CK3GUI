@@ -219,7 +219,7 @@ for Get,Workspace in ipairs(game.Workspace:GetChildren()) do
 
 ParticleEmitter = Instance.new("ParticleEmitter");
 
-ParticleEmitter.Texture = ("rbxassetid://17257829515");
+ParticleEmitter.Texture = ("rbxassetid://");
 
 ParticleEmitter.Parent = Workspace;
 
